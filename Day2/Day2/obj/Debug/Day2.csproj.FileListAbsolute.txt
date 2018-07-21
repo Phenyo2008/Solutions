@@ -1,0 +1,6 @@
+c:\users\siya\documents\visual studio 2015\Projects\Day2\Day2\bin\Debug\Day2.exe.config
+c:\users\siya\documents\visual studio 2015\Projects\Day2\Day2\bin\Debug\Day2.exe
+c:\users\siya\documents\visual studio 2015\Projects\Day2\Day2\bin\Debug\Day2.pdb
+c:\users\siya\documents\visual studio 2015\Projects\Day2\Day2\obj\Debug\Day2.csprojResolveAssemblyReference.cache
+c:\users\siya\documents\visual studio 2015\Projects\Day2\Day2\obj\Debug\Day2.exe
+c:\users\siya\documents\visual studio 2015\Projects\Day2\Day2\obj\Debug\Day2.pdb
